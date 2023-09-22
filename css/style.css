@@ -365,7 +365,7 @@
     display: grid;
     justify-items: center;
     grid-template-columns: 1fr 1fr;
-    width: 25rem;
+    width: 32rem;
     padding: 2rem;
     }
 
@@ -618,7 +618,7 @@
     }
 
     .icons-title {
-    font-size: 1.3rem;
+    font-size: 1rem;
     text-align: center;
     font-family: "Camphor Pro", sans-serif;
     position: relative;
@@ -626,18 +626,10 @@
     margin-top: 1rem;
     }
 
-    .icons-text {
-    font-size: 1rem;
-    text-align: center;
-    font-family: "Camphor Pro", sans-serif;
-    position: relative;
-    font-weight: 500;
-    line-height: 1.2;
-    margin-top: 1rem;
-    }
+   
 
     .icons-text {
-    font-size: 1rem;
+    font-size: 0.9rem;
     text-align: center;
     font-family: "Camphor Pro", sans-serif;
     position: relative;
@@ -646,13 +638,13 @@
     }
 
     .icons-text-2 {
-    font-size: 1.2rem;
+    font-size: 1.27rem;
     text-align: center;
     font-family: "Camphor Pro", sans-serif;
     position: relative;
     font-weight: 700;
     line-height: 1.0;
-    padding-left: 1rem;
+    padding-left: 0rem;
     }
 
     .icons-text-4 {
